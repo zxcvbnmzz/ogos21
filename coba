@@ -141,38 +141,7 @@ http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
 http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNetSports4.mm" tvg-name="Skynetsport 4" tvg-logo="https://static.epg.best/mm/SkyNetSports4.mm.png" tvg-chno="228" channel-id="228" group-title="UMUM",Skynetsport 4
 http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Ria" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="229" channel-id="229" group-title="UMUM",Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="Astro Prima" tvg-logo="https://static.epg.best/my/AstroCricket.my.png" tvg-chno="230" channel-id="230" group-title="UMUM",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Oasis" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="231" channel-id="231" group-title="UMUM",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Warna" tvg-logo="https://static.epg.best/my/AstroArena.my.png" tvg-chno="232" channel-id="232" group-title="UMUM",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Citra" tvg-logo="https://static.epg.best/my/AstroAura.my.png" tvg-chno="233" channel-id="233" group-title="UMUM",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura HD" tvg-logo="https://static.epg.best/my/Naura.my.png" tvg-chno="234" channel-id="234" group-title="UMUM",Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="235" channel-id="235" group-title="UMUM",Astro Rania
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" tvg-logo="https://static.epg.best/my/AstroAura.my.png" tvg-chno="236" channel-id="236" group-title="UMUM",Astro Aura
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
-#EXTINF:-1 tvg-id="GoShop.my" tvg-name="Go Shop Rumma" tvg-logo="https://static.epg.best/my/GoShop.my.png" tvg-chno="237" channel-id="237" group-title="UMUM",Go Shop Rumma
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6720
-#EXTINF:-1 tvg-id="GoShop.my" tvg-name="Go Shop GAAYA" tvg-logo="https://static.epg.best/my/GoShop.my.png" tvg-chno="238" channel-id="238" group-title="UMUM",Go Shop GAAYA
-http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro Xiao Tai Yang HD" tvg-logo="" tvg-chno="252" channel-id="252" group-title="UMUM",Astro Xiao Tai Yang HD
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Astro Shuang Xing" tvg-logo="https://static.epg.best/in/Aastha.in.png" tvg-chno="255" channel-id="255" group-title="UMUM",Astro Shuang Xing
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Quan Jia" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="256" channel-id="256" group-title="UMUM",Astro Quan Jia
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO.ro" tvg-name="BOO" tvg-logo="https://static.epg.best/ro/HBO.ro.png" tvg-chno="266" channel-id="266" group-title="UMUM",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="BERNAMA" tvg-logo="https://static.epg.best/my/BernamaTV.my.png" tvg-chno="267" channel-id="267" group-title="UMUM",BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" tvg-chno="271" channel-id="271" group-title="BERITA",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
@@ -225,117 +194,12 @@ http://bit.ly/NickJr360p
 
 #EXTINF:-1 tvg-id="Toku.us" tvg-name="TokuSHOUTsu" tvg-logo="https://static.epg.best/us/Toku.us.png" tvg-chno="319" channel-id="319" group-title="KIDS",TokuSHOUTsu
 http://gg.gg/TokuSHOUTsu
-#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="Astro Prima" tvg-logo="https://static.epg.best/my/AstroCricket.my.png" tvg-chno="322" channel-id="322" group-title="ASTRO MLY",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id="GoShop.my" tvg-name="Go Shop GAAYA" tvg-logo="https://static.epg.best/my/GoShop.my.png" tvg-chno="323" channel-id="323" group-title="ASTRO MLY",Go Shop GAAYA
-http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Oasis" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="324" channel-id="324" group-title="ASTRO MLY",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Citra" tvg-logo="https://static.epg.best/my/AstroAura.my.png" tvg-chno="328" channel-id="328" group-title="ASTRO MLY",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura HD" tvg-logo="https://static.epg.best/my/Naura.my.png" tvg-chno="329" channel-id="329" group-title="ASTRO MLY",Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro Xiao Tai Yang HD" tvg-logo="" tvg-chno="332" channel-id="332" group-title="ASTRO MLY",Astro Xiao Tai Yang HD
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Astro Shuang Xing" tvg-logo="https://static.epg.best/in/Aastha.in.png" tvg-chno="334" channel-id="334" group-title="ASTRO MLY",Astro Shuang Xing
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Quan Jia" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="335" channel-id="335" group-title="ASTRO MLY",Astro Quan Jia
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="HBO.ro" tvg-name="BOO" tvg-logo="https://static.epg.best/ro/HBO.ro.png" tvg-chno="348" channel-id="348" group-title="ASTRO MLY",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Awani" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="349" channel-id="349" group-title="ASTRO MLY",Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="BERNAMA" tvg-logo="https://static.epg.best/my/BernamaTV.my.png" tvg-chno="350" channel-id="350" group-title="ASTRO MLY",BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Ceria" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="351" channel-id="351" group-title="ASTRO MLY",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV2 CH102" tvg-logo="" tvg-chno="358" channel-id="358" group-title="MALAYSIA",TV2 CH102
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Citra" tvg-logo="https://static.epg.best/my/AstroAura.my.png" tvg-chno="361" channel-id="361" group-title="MALAYSIA",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="" tvg-chno="363" channel-id="363" group-title="MALAYSIA",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-id="TVO.ch" tvg-name="TV1 CH101" tvg-logo="https://static.epg.best/ch/TVO.ch.png" tvg-chno="364" channel-id="364" group-title="MALAYSIA",TV1 CH101
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://static.epg.best/my/TV9.my.png" tvg-chno="366" channel-id="366" group-title="MALAYSIA",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Awani" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="367" channel-id="367" group-title="MALAYSIA",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Oasis" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="369" channel-id="369" group-title="MALAYSIA",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVO.ch" tvg-name="TV1 CH101" tvg-logo="https://static.epg.best/ch/TVO.ch.png" tvg-chno="373" channel-id="373" group-title="MALAYSIA",TV1 CH101
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV2 CH102" tvg-logo="" tvg-chno="374" channel-id="374" group-title="MALAYSIA",TV2 CH102
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="" tvg-chno="377" channel-id="377" group-title="MALAYSIA",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://static.epg.best/my/TV9.my.png" tvg-chno="378" channel-id="378" group-title="MALAYSIA",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Citra" tvg-logo="https://static.epg.best/my/AstroAura.my.png" tvg-chno="384" channel-id="384" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MALAYSIA",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Oasis" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="385" channel-id="385" group-title="MALAYSIA",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Awani" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="390" channel-id="390" group-title="MALAYSIA",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="Astro Prima" tvg-logo="https://static.epg.best/my/AstroCricket.my.png" tvg-chno="392" channel-id="392" group-title="ASTRO TV",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Oasis" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="393" channel-id="393" group-title="ASTRO TV",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Citra" tvg-logo="https://static.epg.best/my/AstroAura.my.png" tvg-chno="395" channel-id="395" group-title="ASTRO TV",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura HD" tvg-logo="https://static.epg.best/my/Naura.my.png" tvg-chno="396" channel-id="396" group-title="ASTRO TV",Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoShop.my" tvg-name="Go Shop GAAYA" tvg-logo="https://static.epg.best/my/GoShop.my.png" tvg-chno="400" channel-id="400" group-title="ASTRO TV",Go Shop GAAYA
-http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro Xiao Tai Yang HD" tvg-logo="" tvg-chno="414" channel-id="414" group-title="ASTRO TV",Astro Xiao Tai Yang HD
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro Shuang Xing" tvg-logo="" tvg-chno="417" channel-id="417" group-title="ASTRO TV",Astro Shuang Xing
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Quan Jia" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="418" channel-id="418" group-title="ASTRO TV",Astro Quan Jia
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="HBO.ro" tvg-name="BOO" tvg-logo="https://static.epg.best/ro/HBO.ro.png" tvg-chno="435" channel-id="435" group-title="ASTRO TV",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Awani" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="436" channel-id="436" group-title="ASTRO TV",Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="BERNAMA" tvg-logo="https://static.epg.best/my/BernamaTV.my.png" tvg-chno="437" channel-id="437" group-title="ASTRO TV",BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Ceria" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="443" channel-id="443" group-title="ASTRO TV",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" tvg-chno="452" channel-id="452" group-title="KNOWLEDGE",Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="SinemaTV.tr" tvg-name="SILENCE TV" tvg-logo="https://static.epg.best/tr/SinemaTV.tr.png" tvg-chno="453" channel-id="453" group-title="KNOWLEDGE",SILENCE TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" tvg-chno="460" channel-id="460" group-title="KNOWLEDGE",Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" tvg-chno="461" channel-id="461" group-title="KNOWLEDGE",Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SinemaTV.tr" tvg-name="SILENCE TV" tvg-logo="https://static.epg.best/tr/SinemaTV.tr.png" tvg-chno="468" channel-id="468" group-title="KNOWLEDGE",SILENCE TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
