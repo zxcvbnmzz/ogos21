@@ -37,29 +37,7 @@ http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 tvg-id="MoviesGreats.au" tvg-name="MOVIE _GROUP" tvg-logo="https://static.epg.best/au/MoviesGreats.au.png" tvg-chno="74" channel-id="74" group-title="LOKAL",MOVIE _GROUP
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Awani" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="120" channel-id="120" group-title="UMUM",Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Ceria" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="125" channel-id="125" group-title="UMUM",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-id="TVO.ch" tvg-name="TV1 CH101" tvg-logo="https://static.epg.best/ch/TVO.ch.png" tvg-chno="131" channel-id="131" group-title="UMUM",TV1 CH101
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV2 CH102" tvg-logo="" tvg-chno="132" channel-id="132" group-title="UMUM",TV2 CH102
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="" tvg-chno="134" channel-id="134" group-title="UMUM",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://static.epg.best/my/TV9.my.png" tvg-chno="135" channel-id="135" group-title="UMUM",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Citra" tvg-logo="https://static.epg.best/my/AstroAura.my.png" tvg-chno="141" channel-id="141" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="UMUM",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Oasis" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="142" channel-id="142" group-title="UMUM",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="euro Chanel 9" tvg-logo="" tvg-chno="176" channel-id="176" group-title="UMUM",euro Chanel 9
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="euro Chanel 7" tvg-logo="" tvg-chno="174" channel-id="174" group-title="UMUM",euro Chanel 7
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-199
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Awani" tvg-logo="https://static.epg.best/my/AstroRania.my.png" tvg-chno="147" channel-id="147" group-title="UMUM",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AMITV.ca" tvg-name="Miami TV" tvg-logo="https://static.epg.best/ca/AMITV.ca.png" tvg-chno="148" channel-id="148" group-title="UMUM",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
@@ -83,10 +61,6 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Music 24" tvg-logo="" tvg-chno="160" channel-id="160" group-title="UMUM",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-
-
-
-
 
 
 
