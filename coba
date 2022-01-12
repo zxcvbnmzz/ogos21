@@ -300,3 +300,35 @@ http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 #http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.131.212.138:8000/play/a00p/index.m3u8
+
+
+#Wild
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
+#EXTVLCOPT:network-caching=1000
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet Hindi
+#EXTVLCOPT:network-caching=1000
+https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiotv.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet English
+#EXTVLCOPT:network-caching=1000
+https://durbinlive.com:443/live/jio?c=Animal_Planet_HD&q=auto&e=IshanJiotv.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Hindi
+#EXTVLCOPT:network-caching=1000
+https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiotv.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery English
+#EXTVLCOPT:network-caching=1000
+http://103.81.104.118/hls/discovery.m3u8
+#https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/wild.png",Wild HD
+#EXTVLCOPT:network-caching=1000
+http://103.161.2.142/hls/wild.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/redbull%20tv.png",Redbull TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
