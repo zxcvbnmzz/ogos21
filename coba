@@ -39,15 +39,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AMITV.ca" tvg-name="Miami TV" tvg-logo="https://static.epg.best/ca/AMITV.ca.png" tvg-chno="148" channel-id="148" group-title="UMUM",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 tvg-id="Vision.ca" tvg-name="Visit X" tvg-logo="https://static.epg.best/ca/Vision.ca.png" tvg-chno="149" channel-id="149" group-title="UMUM",Visit X
-http://194.116.150.47:1935/vxtv/live_360p/chunklist_w543388767.m3u8
-#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jasmin TV" tvg-logo="https://static.epg.best/in/JaihindTV.in.png" tvg-chno="150" channel-id="150" group-title="UMUM",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bikini TV" tvg-logo="" tvg-chno="151" channel-id="151" group-title="UMUM",Bikini TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Map Palembang TV" tvg-logo="" tvg-chno="153" channel-id="153" group-title="UMUM",Map Palembang TV
 https://re1.siar.us/maptv/live/playlist.m3u8
 
