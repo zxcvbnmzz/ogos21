@@ -256,42 +256,47 @@ https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 
 
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/star%20movies.jpeg",Star Movies HD
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="RedBullTv" tvg-logo="https://static.epg.best/us/RedBullTV.us.png" tvg-chno="622" channel-id="622" group-title="SPORTS",RedBullTv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OneGolf" tvg-logo="" tvg-chno="623" channel-id="623" group-title="SPORTS",OneGolf
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/Star_World_2016_logo.png",Star World
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="" tvg-chno="629" channel-id="629" group-title="SPORTS",Eurosport
-http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8?checkedby=&offset=-147600&useseq=t&version=2
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/hbo.png",HBO
+#EXTVLCOPT:network-caching=1000
+http://45.161.188.242:88/hbo/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Match2" tvg-logo="" tvg-chno="631" channel-id="631" group-title="SPORTS",Match2
-https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/HBO_Plus.png",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://45.161.188.242:88/hboplus/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NowSportPrime" tvg-logo="" tvg-chno="633" channel-id="633" group-title="SPORTS",NowSportPrime
-http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://static.epg.best/us/Stadium.us.png" tvg-chno="634" channel-id="634" group-title="SPORTS",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="TvMatic Sport" tvg-logo="https://static.epg.best/ca/TVASports.ca.png" tvg-chno="635" channel-id="635" group-title="SPORTS",TvMatic Sport
-http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="" tvg-chno="636" channel-id="636" group-title="SPORTS",FOX SPORT 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ufc2" tvg-logo="" tvg-chno="637" channel-id="637" group-title="SPORTS",ufc2
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOXING HD" tvg-logo="" tvg-chno="638" channel-id="638" group-title="SPORTS",BOXING HD
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8?OPT:http-reconnect=true
-#EXTINF:-1 tvg-id="FightSportsTV.us" tvg-name="FIGHT Sports" tvg-logo="https://static.epg.best/us/FightSportsTV.us.png" tvg-chno="639" channel-id="639" group-title="SPORTS",FIGHT Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-#EXTINF:-1 tvg-id="SKYRacing.au" tvg-name="Sky 1 Racing" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" tvg-chno="640" channel-id="640" group-title="SPORTS",Sky 1 Racing
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 tvg-id="SKYRacing.au" tvg-name="Sky 2 Racing" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" tvg-chno="641" channel-id="641" group-title="SPORTS",Sky 2 Racing
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/hbo2.png",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://45.161.188.242:88/hbo2/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rugby World TV" tvg-logo="" tvg-chno="647" channel-id="647" group-title="SPORTS",Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1 tvg-id="RugbyPass.sg" tvg-name="Rugby Mens Sevens" tvg-logo="https://static.epg.best/sg/RugbyPass.sg.png" tvg-chno="648" channel-id="648" group-title="SPORTS",Rugby Mens Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rugby Womens Sevens" tvg-logo="" tvg-chno="649" channel-id="649" group-title="SPORTS",Rugby Womens Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/hboxtremeb.png",HBO Extreme
+#EXTVLCOPT:network-caching=1000
+http://45.161.188.242:88/hboxtreme/mono.m3u8
 
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sonypix_hd_masthead_logo.png",Sony Pix HD
+#EXTVLCOPT:network-caching=1000
+http://103.161.2.142/hls/sonypixhd.m3u8
 
+#EXTINF:-1 group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmX4PfmB5dSYPEGI7lj6e0g32zezdDDdwelg&usqp=CAU",AXN
+#EXTVLCOPT:network-caching=1000
+http://45.161.188.242:88/axn/mono.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg",Romedy Now HD
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg",Colors Infinity
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png",Fox Life HD
+#EXTVLCOPT:network-caching=1000
+#http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.131.212.138:8000/play/a00p/index.m3u8
