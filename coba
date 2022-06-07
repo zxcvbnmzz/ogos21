@@ -234,3 +234,38 @@ http://103.81.104.118/hls/discovery.m3u8
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/redbull%20tv.png",Redbull TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1  tvg-name="HBO HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
+http://gg.gg/HaNoiIPTV-HBO_HD
+#EXTINF:-1  tvg-name="CINEMAX HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",Cinemax HD
+http://gg.gg/HaNoiIPTV-Cinemax_HD
+
+
+#EXTINF:-1  tvg-name="BLUE ANT ENTERTAIMENT HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Blue%20Ant%20Entertaiment%20HD.png",Blue Ant Entertaiment HD
+http://gg.gg/HaNoiIPTV-Blue_Ant_Entertaiment_HD
+#EXTINF:-1  tvg-name="BLUE ANT EXTREME HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Blue%20Ant%20Extreme%20HD.png",Blue Ant Extreme HD
+http://gg.gg/HaNoiIPTV-Blue_Ant_Extreme_HD
+#EXTINF:-1  tvg-name="KIX HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Kix%20HD.png",Kix HD
+http://gg.gg/HaNoiIPTV-Kix_HD
+
+#EXTINF:-1  tvg-name="NGC HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/National%20Geographic%20HD.png",National Geographic HD
+http://gg.gg/HaNoiIPTV-National_Geographic_HD
+
+
+#EXTINF:-1  tvg-name="BOOMERANG HD" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Boomerang%20HD.png",Boomerang
+http://gg.gg/HaNoiIPTV-Boomerang_HD
+#EXTINF:-1  tvg-name="ANIMAX HD" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Animax%20HD.png",Animax HD
+http://gg.gg/HaNoiIPTV-Animax_HD
+#EXTINF:-1  tvg-name="DREAMWORKS HD" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dreamworks.png",Dreamworks
+http://gg.gg/HaNoiIPTV-Dreamworks_HD
+#EXTINF:-1  tvg-name="CBEEBIES HD" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CBeebies%20HD.png",CBeebies HD
+http://gg.gg/HaNoiIPTV-CBeebies_HD
+#EXTINF:-1  tvg-name="ANT - BPTV3" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANT%20-%20BPTV3.png",ANT - BPTV3
+http://gg.gg/HaNoiIPTV-ANT-BPTV3
+
+#EXTINF:-1  tvg-name="HTV3" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV3%20-%20DreamsTV.png",HTV3
+http://gg.gg/HaNoiIPTV-HTV3-Dreams_TV
+#EXTINF:-1  tvg-name="DA VINCI KIDS HD" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Da%20Vinci%20HD.png",Da Vinci Kids
+http://gg.gg/HaNoiIPTV-Da_Vinci_Kids_HD
+#EXTINF:-1  tvg-name="OUTDOOR CHANNEL HD" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Outdoor%20Channel%20HD.png",Outdoor Channel HD
+http://gg.gg/HaNoiIPTV-Outdoor_Channel_HD
